@@ -10,7 +10,6 @@ runs/
 wandb/
 
 # --- Generated media ---
-*.mp4
 !episodes/
 !episodes/**
 *.gif
