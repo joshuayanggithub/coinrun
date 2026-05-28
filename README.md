@@ -10,7 +10,7 @@ Given a single prompt frame and a sequence of actions, the model autoregressivel
 # Sample Rollouts
 Videos from the largest trained 58 Model:
 
-<video controls width="240" src="figs/episode 1777341548.mp4">Your browser does not support the video tag.</video>
+https://github.com/user-attachments/assets/7d175c44-c043-492d-b588-6c5ea8374816
 
 # Scaling Laws
 ![Scaling analysis](figs/scaling%20analysis.png)
